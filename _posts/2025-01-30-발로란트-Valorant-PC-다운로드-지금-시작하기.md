@@ -1,7 +1,7 @@
 ---
 title: 발로란트 Valorant PC 다운로드 지금 시작하기
 author: bing
-date: 2025-01-30
+date: 2025-01-31
 categories: [Blogging]
 tags: [writing]
 render_with_liquid: false
