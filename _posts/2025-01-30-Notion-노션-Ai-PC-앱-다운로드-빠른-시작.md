@@ -1,7 +1,7 @@
 ---
 title: Notion 노션 Ai PC 앱 다운로드 빠른 시작
 author: bing
-date: 2025-02-02
+date: 2025-02-03
 categories: [Blogging]
 tags: [writing]
 render_with_liquid: false
